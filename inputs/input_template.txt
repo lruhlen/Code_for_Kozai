@@ -1,0 +1,23 @@
+ STARTING MODEL    :  2 XXX 
+ BINARY OUTPUT FILE:  3 XXX
+ MODA=   XXX NMOD=   XXX NRIT=   XXX ITMN=     2 ITMX=   300                    
+ JADD=     0 JSUB=     0 NATM=   100                                            
+ Atmx= 1.35E+05 Atmn= 5.00E+03 dTAX= 1.00E-06 L/H = 2.00E-00                    
+ dLmx= 5.00E-03 dLmn= 1.00E-03 dXmx= 4.00E-02 dXmn= 1.00E-02                    
+ dPmx= 5.00E-02 dPmn= 1.00E-02 Crad= 1.00E-00 Cwrk= 1.00E-00                    
+ dZmx= 5.00E-03 dZmn= 1.00E-06 dZdt= 1.00E+01                                   
+ epsP= 1.00E-05 epsR= 1.00E-05 epsL= 1.00E-04 epsT= 1.00E-05                    
+ SMIN= 1.00E-05       1.00E-05       0.00E+37       1.00E-06                    
+ SMAX= 0.080000       0.080000        2.00E+37     0.080000                    
+ dTIM= 1.00E+09 FACT= 1.00E+00 dTMN= 1.00E+04 dTMX= 1.00E+15                    
+ CHMN= 0.030000 CHMX= 0.120000 XX  = 0.710000 YY  = 0.272930  
+ JNOU=      0.2 SIGM= 0.20000 
+ KZPE=      XXX ZSTA= 2.00E+33              
+ ECCN=      XXX SEMI=      XXX VALN= 1.07E-07 QVAL= 3.00E+05                                                
+       7.10E-01       4.00E-05       3.40E-03       2.72E-05                    
+       5.02E-04       4.53E-05       5.53E-04       3.84E-04                    
+       3.32E-06       5.69E-05       9.39E-04       1.26E-03                    
+       8.25E-03       1.65E-03                                                  
+*                                                                               
+*  TIME     MFLX                                                                
+   0.00     0.00    

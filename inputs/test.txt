@@ -1,0 +1,29 @@
+ STARTING MODEL    :  2 inputs/JupMassModels/1MjNF.mod                          
+* STARTING MODEL    :  3 outputs/catchall.mod                          
+ BINARY OUTPUT FILE:  3 outputs/efac3.9e27.mod                                    
+ MODA=    21 NMOD=  1000 NRIT=    10 ITMN=     2 ITMX=   200                    
+* MODA=    -1 NMOD=  5000 NRIT=   100 ITMN=     2 ITMX=   200                    
+ JADD=     0 JSUB=     0 NATM=   100                                            
+ Atmx= 1.35E+05 Atmn= 5.00E+03 dTAX= 1.00E-06 L/H = 2.00E-00                    
+ dLmx= 5.00E-03 dLmn= 1.00E-03 dXmx= 4.00E-02 dXmn= 1.00E-02                    
+ dPmx= 5.00E-02 dPmn= 1.00E-02 Crad= 1.00E-10 Cwrk= 1.00E+00                    
+ dZmx= 5.00E-03 dZmn= 1.00E-06 dZdt= 1.00E+01                                   
+ epsP= 1.00E-05 epsR= 1.00E-05 epsL= 1.00E-04 epsT= 1.00E-05                    
+ SMIN= 1.00E-05       1.00E-05       2.00E+37       1.00E-05                    
+ SMAX= 0.080000       0.080000      -2.00E+37       0.080000                    
+* dTIM= 1.00E+12 FACT= 1.00E+00 dTMN= 1.00E+00 dTMX= 1.00E+15	                  
+ dTIM=-1.00E+09 FACT= 1.00E+00 dTMN= 1.00E+07 dTMX= 1.00E+15                    
+ CHMN= 0.030000 CHMX= 0.120000 XX  = 0.710000 YY  = 0.272930  
+* JNOU = Mcenter/Mtotal <-- location of the center of the Gaussian
+* energy input                  
+* SIGM = sigma_Mass / Mtotal <-- width of the Gaussian energy input
+* EFAC = amplitude of the Gaussian energy input
+ JNOU=      0.2 SIGM= 0.20000 EFAC=  3.90E+27                                   
+ KZPE= 1.00E+07                                                                 
+       7.10E-01       4.00E-05       3.40E-03       2.72E-05                    
+       5.02E-04       4.53E-05       5.53E-04       3.84E-04                    
+       3.32E-06       5.69E-05       9.39E-04       1.26E-03                    
+       8.25E-03       1.65E-03                                                  
+*                                                                               
+*  TIME     MFLX                                                                
+   0.00     0.00    
