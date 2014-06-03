@@ -1,0 +1,12 @@
+def onpick3(event):
+    ind = event.ind
+    print 'data point:', ind, npy.take(names, ind)
+
+fig = figure()
+ax1 = fig.add_subplot(111)
+col = ax1.scatter(range(5),range(5),picker=True)
+names = ['bob','earl','jose','amy','dude']
+
+fig.canvas.mpl_connect('pick_event', onpick3)
+
+show()
