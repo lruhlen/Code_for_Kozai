@@ -1,0 +1,29 @@
+c*******  pmsstar.inp   (v3.6) *****************************************
+c
+c  Case S1 (1 Msun, no mass gain or loss, standard composition)
+c
+c***********************************************************************
+ STARTING MODEL    :  2 inputs/pmsstar1.mod
+* BINARY OUTPUT FILE:  2 pmsstar1.mod
+ BINARY OUTPUT FILE:  3 inputs/pmsstar1_cont.mod
+ MODA=   -10 NMOD=    10 NRIT=     5 ITMN=     1 ITMX=  2000
+* MODA=   -10 NMOD=   500 NRIT=   250 ITMN=     2 ITMX=    80
+* MODA=   -10 NMOD=     1 NRIT=   250 ITMN=     1 ITMX=  2000
+ JADD=     0 JSUB=     0 NATM=    10
+ Atmx= 1.15E+05 Atmn= 5.00E+03 dTAX= 1.00E-06 L/H = 2.00E-00
+ dLmx= 3.90E-03 dLmn= 1.00E-03 dXmx= 4.00E-02 dXmn= 1.00E-02
+ dPmx= 4.00E-02 dPmn= 5.00E-03 Crad= 1.00E-00 Cwrk= 1.00E+00
+ dZmx= 4.00E-03 dZmn= 1.00E-06 dZdt= 2.00E+01
+ epsP= 1.00E-05 epsR= 1.00E-05 epsL= 1.00E-04 epsT= 1.00E-05 
+ SMIN= 1.00E-05       1.00E-05       2.00E+37       1.00E-05
+ SMAX= 0.080000       0.080000      -2.00E+37       0.080000
+ dTIM=-1.00E+09 FACT= 1.00E+00 dTMN= 1.00E+07 dTMX= 1.00E+15
+ CHMN= 0.030000 CHMX= 0.120000 XX  = 0.710000 YY  = 0.272930
+       7.10E-01       4.00E-05       3.40E-03       2.72E-05
+       5.02E-04       4.53E-05       5.53E-04       3.84E-04
+       3.32E-06       5.69E-05       9.39E-04       1.26E-03
+       8.25E-03       1.65E-03
+*
+*  TIME     MFLX
+   0.00     0.00
+   1.00E37  0.00
